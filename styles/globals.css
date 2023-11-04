@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply h-full bg-[#dadada]
+}
+
+body {
+  @apply h-full bg-[#dadada]
+  
+}
+
